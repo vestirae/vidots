@@ -1,0 +1,12 @@
+configuration {
+    show-icons: false;
+    font: "JetBrains Mono Bold 12";
+    display-ssh:    "󰣀 ssh:";
+    display-run:    "󱓞 run:";
+    display-drun:   "󰣖 drun:";
+    display-window: "󱂬 window:";
+    display-combi:  "󰕘 combi:";
+    display-filebrowser: "󰉋 filebrowser:";
+}
+
+@theme "~/.config/rofi/style.rasi"
