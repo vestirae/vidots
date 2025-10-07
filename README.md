@@ -7,8 +7,9 @@
 ╠═╣╚╦╝╠═╝╠╦╝║  ╠═╣║║║ ║║  ╚═╗║╣  ║ ║ ║╠═╝
 ╩ ╩ ╩ ╩  ╩╚═╩═╝╩ ╩╝╚╝═╩╝  ╚═╝╚═╝ ╩ ╚═╝╩  
 ```
+</div>
 
-
+<div align="center">
 
 **A little look at my workflow wouldn't hurt now, would it?**
 
@@ -22,10 +23,11 @@
 [![Keybinds](https://img.shields.io/badge/KEYBINDINGS-ec4899?style=for-the-badge&labelColor=1e1e2e)](#-keybindings)
 [![Gallery](https://img.shields.io/badge/GALLERY-8b5cf6?style=for-the-badge&labelColor=1e1e2e)](#-gallery)
 
-
-
-
 </div>
+
+
+
+
 
 ---
 
