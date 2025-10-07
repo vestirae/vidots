@@ -16,17 +16,17 @@
 window {
     height: 550;
     width: 450;
-
     border: 3;
     border-radius: 10;
-    border-color: @lavender;
-}
-
+    border-color: @base;  /* Changed from @lavender */
+} 
 mainbox {
     spacing: 0;
     children: [inputbar, message, listview];
+    border: 2;
+    border-color: @lavender;
+    border-radius: 10;
 }
-
 inputbar {
     color: @text;
     padding: 14;
