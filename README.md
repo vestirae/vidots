@@ -35,7 +35,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### Why This Setup?
 
@@ -56,26 +56,6 @@ Philosophy:
   - Actually daily-drivable
 ```
 
-</td>
-<td width="50%">
-
-### Built for
-<br>
-
-```yaml
-Developers who live in the terminal.
-Designers who appreciate aesthetics.
-Power users who demand efficiency.
-Tinkerers who love customization.
-Anyone tired of boring desktops.
-Minimalists seeking a clean workspace.
-Laptop users relying on trackpad gestures.
-Students who require deep focus.
-Multitaskers using multiple monitors.
-Newcomers to tiling window managers.
-Creators needing a beautiful, light desktop for streams.
-```
-<br>
 </td>
 </tr>
 </table>
