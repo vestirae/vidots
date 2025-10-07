@@ -34,9 +34,7 @@
 
 ## 🎭 The Philosophy
 
-<table>
-<tr>
-<td width="100%">
+
 
 ### Why This Setup?
 
@@ -57,9 +55,6 @@ Philosophy:
   - Actually daily-drivable
 ```
 
-</td>
-</tr>
-</table>
 
 
 
