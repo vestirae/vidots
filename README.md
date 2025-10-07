@@ -399,7 +399,7 @@ echo "🎉 Installation complete! Reboot or logout and log back in."
 | Keybind | Action |
 |---------|--------|
 | `CTRL + Q` | Close Active Window |
-| `ALT + F` | Toggle Fullscreen |
+| `Super + F` | Toggle Fullscreen |
 | `Super + V` | Toggle Floating |
 | `Super + P` | Toggle Pseudo Tile |
 | `Super + J` | Toggle Split Direction |
