@@ -9,8 +9,12 @@
 ```
 
 
+
 **A little look at my workflow wouldn't hurt now, would it?**
-<br>
+
+
+
+
 
 [![Setup](https://img.shields.io/badge/THE_SETUP-6366f1?style=for-the-badge&labelColor=1e1e2e)](#-the-setup)
 [![Installation](https://img.shields.io/badge/INSTALLATION-10b981?style=for-the-badge&labelColor=1e1e2e)](#-installation)
@@ -84,9 +88,9 @@ Creators needing a beautiful, light desktop for streams.
 
 <br>
 
-<img src="Screenshots/rofi.png" width="400" style="margin: 0 10px;">
-<img src="Screenshots/editor.png" width="400" style="margin: 0 10px;">
-<img src="Screenshots/terminal_toys.png" width="400" style="margin: 0 10px;">
+<img src="Screenshots/rofi.png" width="300" style="margin: 0 10px;">
+<img src="Screenshots/editor.png" width="300" style="margin: 0 10px;">
+<img src="Screenshots/terminal_toys.png" width="300" style="margin: 0 10px;">
 
 <br>
 
@@ -322,6 +326,8 @@ Rotates screen.
  
 ### Installation Command
 
+<div align="left">
+  
 ```bash
 # Clone this beauty
 git clone https://github.com/vestirae/vidots ~/.dotfiles && cd ~/.dotfiles
@@ -365,7 +371,8 @@ libinput-gestures-setup start
 echo "🎉 Installation complete! Reboot or logout and log back in."
 ```
 <br>
- 
+</div>
+
 ### First Boot Checklist
 
 | Step | Action |
@@ -430,19 +437,10 @@ echo "🎉 Installation complete! Reboot or logout and log back in."
 
 | Keybind | Action |
 |---------|--------|
-| `ALT + FM + Insert` | Screenshot Full Screen |
+| `ALT + FN + Insert` | Screenshot Full Screen |
 | `Super + Shift + S` | Freeze and Screenshot |
 
 <br>
- 
-### Custom Script Keybinds
-
-| Keybind | Script | Action |
-|---------|--------|--------|
-| `Super + ?` | `script1.sh` | Script 1 |
-| `Super + ?` | `script2.sh` | Script 2 |
-| `Super + ?` | `script3.sh` | Script 3 |
-| `Super + ?` | `script4.sh` | Script 4 |
 
 
 <div align="left">
@@ -452,6 +450,8 @@ echo "🎉 Installation complete! Reboot or logout and log back in."
 
 ### Change Theme Colors
 
+<div align="left">
+  
 ```bash
 # From an image
 wal -i ~/Pictures/wallpaper.jpg
@@ -462,6 +462,7 @@ wal --theme base16-monokai
 # Reload current theme
 wal -R
 ```
+</div>
 
 **Tip:** Place wallpapers in `~/.config/hypr/wallpapers/` for easy access!
 
@@ -472,7 +473,8 @@ wal -R
 **Main Config:** `~/.config/hypr/hyprland.conf`
 
 
-Customize everything:
+<div align="left">
+
 ```
  Window rules
  Animations
@@ -480,7 +482,9 @@ Customize everything:
  Workspace behavior
  Border styles
 ```
-
+</div>
+<div align="center">
+  
 The [Hyprland Wiki](https://wiki.hyprland.org) is your best friend.
 </div>
 
@@ -491,7 +495,7 @@ The [Hyprland Wiki](https://wiki.hyprland.org) is your best friend.
 <div align="left">
 
 ## 🔧 Troubleshooting
-</div>
+
 
 <details>
 <summary><b>Waybar not appearing?</b></summary>
@@ -614,7 +618,7 @@ Verify the save path in your screenshot scripts.
 
 </details>
 
-
+</div>
 
 
 
@@ -633,7 +637,8 @@ Verify the save path in your screenshot scripts.
 </div>
 
 Found a bug? Have a cool script? Want to add features? PRs are welcome!
-
+<div align="left">
+  
 ### Ways to Contribute
 
 - Report bugs and issues
@@ -645,10 +650,9 @@ Found a bug? Have a cool script? Want to add features? PRs are welcome!
 
 <br>
 
-<div align="left">
 
 ## 💖 Credits
-</div>
+
 
 Massive thanks to:
 - **The Hyprland Team** - For creating this amazing compositor
@@ -660,7 +664,7 @@ Massive thanks to:
 
 <br>
 
-<div align="left">
+
 
 ## 📜 License
 
